@@ -1,0 +1,177 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+
+
+.box-1 {
+    background: none ;
+    top:0;
+    left:0;
+    position: absolute;
+	color: #FFFFFF;
+}
+
+.box-1 h2 {
+color: #FFFFFF;
+font-size: 30px;
+padding:20px 0 1px 20px;
+font-family: 'Lato', sans-serif;
+margin-bottom:8px;
+}
+.box-1 p {
+font-size:15px;
+padding:20px;
+margin:0;
+
+}
+
+
+/* Why us petak pertama */
+
+
+.box-2 {
+ background: none ;
+    top:0;
+    left:0;
+    position: absolute;
+
+}
+.box-2 h2 {
+color: #FFFFFF;
+font-size: 30px;
+padding:20px 0 1px 20px;
+font-family: 'Lato', sans-serif;
+margin-bottom:8px;
+}
+.box-2 p {
+font-size:15px;
+padding:20px;
+margin:0;
+color:#FFFFFF;
+
+
+/*  petak kedua */
+
+
+}
+.box-3 {
+ background: none ;
+    top:0;
+    left:0;
+    position: absolute;
+
+}
+.box-3 h2 {
+color: #FFFFFF;
+font-size: 30px;
+padding:20px 0 1px 20px;
+font-family: 'Lato', sans-serif;
+margin-bottom:8px;
+}
+.box-3 p {
+font-size:15px;
+padding:20px;
+margin:0;
+color:#FFFFFF;
+}
+
+
+/*  petak ketiga */
+
+
+.box-4 {
+ background: none ;
+    top:0;
+    left:0;
+    position: absolute;
+
+}
+.box-4 h2 {
+color: #3B3B3B;
+font-size: 30px;
+padding:20px 0 1px 20px;
+font-family: 'Lato', sans-serif;
+margin-bottom:8px;
+}
+.box-4 p {
+font-size:15px;
+padding:20px;
+margin:0 15px;
+background:rgba(54, 42, 57, 0.41);
+color:#080206;
+
+}
+
+.box-4 ul  {
+font-size:17px;
+padding:27px;
+margin:0 25px;
+background:rgba(47, 29, 56, 0.17);
+color:#080206;
+width:100%;
+}
+
+
+/*  petak keempat */
+
+
+.box-5{
+ background: none ;
+    top:0;
+    left:0;
+    position: absolute;
+
+}
+.box-5 h2 {
+color: #3B3B3B;
+font-size: 30px;
+padding:20px 0 1px 20px;
+font-family: 'Lato', sans-serif;
+margin-bottom:8px;
+}
+
+.box-5 p {
+font-size:15px;
+padding:20px;
+margin:0 15px;
+background:rgba(47, 29, 56, 0.17);
+color:#080206;
+}
+
+
+/*  petak kelima */
+
+
+.box-6 {
+ background: none ;
+    top:0;
+    left:0;
+    position: absolute;
+
+}
+.box-6 h2 {
+color: #3B3B3B;
+font-size: 30px;
+padding:20px 0 1px 20px;
+font-family: 'Lato', sans-serif;
+margin-bottom:8px;
+}
+.box-6 p {
+font-size:15px;
+padding:20px;
+margin:0;
+
+}
+
+/*  petak keenam */
+
+/* line tengah */
+	.productmid {
+		 background: linear-gradient(to bottom, #FFFFFF 0px, #FBFBFB 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+		border: 1px solid #BBBBBB;
+		border-radius: 6px;
+		box-shadow:0 0 8px rgba(0, 0, 0, 0.19) inset;
+		margin-bottom: 20px;
+		padding: 1.7%;
+		position: relative;
+}
+/* line tengah end*/
